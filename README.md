@@ -1,3 +1,7 @@
+
+zf_log
+========
+pjc edits 2016.01.18
 testing library as logging alternative for mc engine valuation libs
 
 
